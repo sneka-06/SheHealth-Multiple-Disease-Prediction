@@ -18,3 +18,37 @@ timestamp,disease,patient,features,label,probability
 2025-10-14T13:10:27,Thyroid,,"[40, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2.5, 0, 0, 100, 0, 1, 0, 0]",Negative,0.2
 2025-10-14T13:10:35,Anemia,,"[1, 12, 28, 33, 85]",Positive,0.97
 2025-10-14T13:10:54,Osteoporosis,,"[60, 1, 1, 0, 'Indian', 60, 800, 400, 'Medium', 0, 'None', '', '', 0]",Error,
+2025-10-15T18:49:41,Osteoporosis,,"[60, 1, 1, 0, 'Indian', 60, 800, 400, 'Medium', 0, 'None', '', '', 0]",Error,
+2025-10-15T19:10:06,Osteoporosis,,"[60, 1, 1, 0, 60, 800, 400, 'Medium', 0, 'None', '', '', 0]",Error,
+2025-10-15T19:10:25,Thyroid,,"[40, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2.5, 0, 0, 100, 0, 1, 0, 0]",Negative,0.2
+2025-10-15T19:10:31,PCOS,,"[25, 24, 0, 40, 10]",Negative,0.0
+2025-10-15T19:10:38,Anemia,,"[1, 12, 28, 33, 85]",Positive,0.97
+2025-10-15T19:10:46,Osteoporosis,,"[60, 1, 1, 0, 60, 800, 400, 'Medium', 0, 'None', '', '', 0]",Error,
+2025-10-15T20:08:24,Osteoporosis,,"[60, 1, 1, 0, 60, 800, 400, 1, 0, 0, 0, 0, 0]",Error,
+2025-10-15T20:08:24,Osteoporosis,,"[60, 1, 1, 0, 60, 800, 400, 1, 0, 0, 0, 0, 0]",Error,
+2025-10-15T20:09:15,PCOS,,"[25, 24, 0, 40, 10]",Negative,0.0
+2025-10-15T20:09:15,PCOS,,"[25, 24, 0, 40, 10]",Negative,0.0
+2025-10-15T20:09:20,Thyroid,,"[40, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2.5, 0, 0, 100, 0, 1, 0, 0]",Negative,0.2
+2025-10-15T20:09:20,Thyroid,,"[40, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2.5, 0, 0, 100, 0, 1, 0, 0]",Negative,0.2
+2025-10-15T20:09:24,Anemia,,"[1, 12, 28, 33, 85]",Positive,0.97
+2025-10-15T20:09:24,Anemia,,"[1, 12, 28, 33, 85]",Positive,0.97
+2025-10-15T20:09:59,Osteoporosis,,"[60, 1, 1, 0, 60, 800, 400, 1, 0, 0, 0, 0, 0]",Error,
+2025-10-15T20:09:59,Osteoporosis,,"[60, 1, 1, 0, 60, 800, 400, 1, 0, 0, 0, 0, 0]",Error,
+2025-10-15T20:11:52,Osteoporosis,,"[60, 1, 1, 0, 60, 800, 400, 1, 0, 0, 0, 0, 0]",Error,
+2025-10-15T20:11:52,Osteoporosis,,"[60, 1, 1, 0, 60, 800, 400, 1, 0, 0, 0, 0, 0]",Error,
+2025-10-15T20:11:59,Osteoporosis,,"[60, 1, 1, 0, 60, 800, 400, 1, 0, 0, 0, 0, 0]",Error,
+2025-10-15T20:11:59,Osteoporosis,,"[60, 1, 1, 0, 60, 800, 400, 1, 0, 0, 0, 0, 0]",Error,
+2025-10-15T20:26:54,PCOS,,"[25.0, 24.0, 0.0, 40.0, 10.0]",0,1.0
+2025-10-15T20:27:07,Thyroid,,"[40.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 2.5, 0.0, 0.0, 100.0, 0.0, 1.0, 0.0, 0.0]",0,0.66
+2025-10-15T20:27:15,Anemia,,"[1.0, 12.0, 28.0, 33.0, 85.0]",1,0.94
+2025-10-15T20:27:21,Osteoporosis,,"[60.0, 1.0, 1.0, 0.0, 60.0, 800.0, 400.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0,0.94
+2025-10-15T20:39:00,PCOS,,"age,bmi,menstrual_irregularity,testosterone,antral_follicle_count","[25.0, 24.0, 0.0, 40.0, 10.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Age,BMI,Menstrual_Irregularity,Testosterone_Level(ng/dL),Antral_Follicle_Count",5,Negative,0.0
+2025-10-15T20:39:14,Thyroid,,"age,sex,on_thyroxine,query_on_thyroxine,on_antithyroid_medication,sick,pregnant,thyroid_surgery,i131_treatment,query_hypothyroid,query_hyperthyroid,lithium,goitre,tumor,hypopituitary,psych,tsh_measured,tsh,t3_measured,tt4_measured,tt4,t4u_measured,t4u,fti_measured,fti","[40.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 2.5, 0.0, 0.0, 100.0, 0.0, 1.0, 0.0, 0.0]","[40.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]","age,sex,on thyroxine,query on thyroxine,on antithyroid medication,sick,pregnant,thyroid surgery,I131 treatment,query hypothyroid,query hyperthyroid,lithium,goitre,tumor,hypopituitary,psych,TSH measured,TSH,T3 measured,TT4 measured,TT4,T4U measured,T4U,FTI measured,FTI",25,Negative,0.34
+2025-10-15T20:39:22,Anemia,,"gender,hemoglobin,mch,mchc,mcv","[1.0, 12.0, 28.0, 33.0, 85.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Gender,Hemoglobin,MCH,MCHC,MCV",5,Positive,0.94
+2025-10-15T20:39:27,Osteoporosis,,"age,gender,hormonal_changes,family_history,body_weight,calcium_intake,vitamin_d_intake,physical_activity,smoking,alcohol,medical_conditions,medications,prior_fractures","[60.0, 1.0, 1.0, 0.0, 60.0, 800.0, 400.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]","Age,Gender_Male,Hormonal Changes_Postmenopausal,Family History_Yes,Body Weight_Underweight,Calcium Intake_Low,Vitamin D Intake_Sufficient,Physical Activity_Sedentary,Smoking_Yes,Medical Conditions_Rheumatoid Arthritis,Prior Fractures_Yes",11,Negative,0.06
+2025-10-15T20:42:05,PCOS,,"age,bmi,menstrual_irregularity,testosterone,antral_follicle_count","[25.0, 24.0, 0.0, 40.0, 10.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Age,BMI,Menstrual_Irregularity,Testosterone_Level(ng/dL),Antral_Follicle_Count",5,Negative,0.0
+2025-10-15T20:47:39,PCOS,,"age,bmi,menstrual_irregularity,testosterone,antral_follicle_count","[25.0, 24.0, 0.0, 40.0, 10.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Age,BMI,Menstrual_Irregularity,Testosterone_Level(ng/dL),Antral_Follicle_Count",5,Negative,0.0
+2025-10-15T20:57:31,PCOS,,"age,bmi,menstrual_irregularity,testosterone,antral_follicle_count","[25.0, 24.0, 0.0, 40.0, 10.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Age,BMI,Menstrual_Irregularity,Testosterone_Level(ng/dL),Antral_Follicle_Count",5,Negative,0.0
+2025-10-15T20:57:41,Thyroid,,"age,sex,on_thyroxine,query_on_thyroxine,on_antithyroid_medication,sick,pregnant,thyroid_surgery,i131_treatment,query_hypothyroid,query_hyperthyroid,lithium,goitre,tumor,hypopituitary,psych,tsh_measured,tsh,t3_measured,tt4_measured,tt4,t4u_measured,t4u,fti_measured,fti","[40.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 2.5, 0.0, 0.0, 100.0, 0.0, 1.0, 0.0, 0.0]","[40.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]","age,sex,on thyroxine,query on thyroxine,on antithyroid medication,sick,pregnant,thyroid surgery,I131 treatment,query hypothyroid,query hyperthyroid,lithium,goitre,tumor,hypopituitary,psych,TSH measured,TSH,T3 measured,TT4 measured,TT4,T4U measured,T4U,FTI measured,FTI",25,Negative,0.34
+2025-10-15T20:57:45,Anemia,,"gender,hemoglobin,mch,mchc,mcv","[1.0, 12.0, 28.0, 33.0, 85.0]","[0.0, 0.0, 0.0, 0.0, 0.0]","Gender,Hemoglobin,MCH,MCHC,MCV",5,Positive,0.94
+2025-10-15T20:57:50,Osteoporosis,,"age,gender,hormonal_changes,family_history,body_weight,calcium_intake,vitamin_d_intake,physical_activity,smoking,alcohol,medical_conditions,medications,prior_fractures","[60.0, 1.0, 1.0, 0.0, 60.0, 800.0, 400.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0]","[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]","Age,Gender_Male,Hormonal Changes_Postmenopausal,Family History_Yes,Body Weight_Underweight,Calcium Intake_Low,Vitamin D Intake_Sufficient,Physical Activity_Sedentary,Smoking_Yes,Medical Conditions_Rheumatoid Arthritis,Prior Fractures_Yes",11,Negative,0.06
